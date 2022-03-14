@@ -1,0 +1,8 @@
+body{
+    padding: 20px;
+    border: 20px;
+}
+.background-trees{
+    background: url(../Images/Background_arvores.jfif);
+    background-size: cover;
+}

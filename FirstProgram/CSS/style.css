@@ -1,0 +1,40 @@
+        h1{
+            align-items: center;
+            text-decoration: dashed, blueviolet;
+        }
+        body{
+            margin: 20px;
+            padding: 0px;
+            background: url('../Imagens/background.jpg') no-repeat fixed center top;
+            background-size: cover;
+        }
+        header{
+            padding: 25px;
+            color: black;
+            background-color: burlywood;
+            border-radius: 20px;
+        }
+        main{
+            padding: 25px;
+            color: red;
+            background-color: transparent;
+        }
+        table{
+            border: 1px, solid, black;
+            color: rgb(185, 8, 38);
+        }
+        footer{
+            padding: 25px;
+            color: rgb(46, 124, 57);
+            background-color: rgb(182, 180, 66); 
+            border-radius: 20px;
+        }
+        row{
+           background-color: aqua";
+        }
+        #titulo1{
+            color: darkorange;
+        }
+        .cabecalhotab{
+            background-color:deeppink ;
+        }
